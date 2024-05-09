@@ -8,7 +8,7 @@
 <a href="https://codeberg.org/MonkeyGG2/pages"><img alt="Codeberg Repo forks" src="https://img.shields.io/badge/dynamic/json.svg?label=codeberg%20forks&url=https://codeberg.org/api/v1/repos/MonkeyGG2/pages&query=forks_count"></a>
 <a href="http://www.wtfpl.net/about"><img alt="License: WTFPL" src="https://img.shields.io/badge/License-WTFPL-brightgreen.svg"></a>
 </div>
-<h1 align="center">MonkeyGG2</h1>
+<h1 align="center">NoIdea</h1>
 <p align="center" style="opacity: 0.65;">Your Friendly Neighborhood Games Site.</p>
 <br>
 
