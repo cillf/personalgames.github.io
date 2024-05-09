@@ -1,11 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/NoIdea/NoIdea.github.io/main/imgs/icon-256-256.png" height="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MonkeyGG2/MonkeyGG2.github.io/main/imgs/icon-256-256.png" height="200"></p>
 
 <div align="center">
 <a href="https://discord.com/invite/yPYyZ78qCB"><img alt="Discord" src="https://img.shields.io/discord/1051660971900407839?label=discord"></a>
-<a href="https://github.com/NoIdea/NoIdea.github.io"><img alt="Github Repo stars" src="https://img.shields.io/github/stars/NoIdea/NoIdea.github.io?label=github%20stars"></a>
-<a href="https://github.com/NoIdea/NoIdea.github.io"><img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/NoIdea/NoIdea.github.io?label=github%20forks"></a>
-<a href="https://codeberg.org/NoIdea/pages"><img alt="Codeberg Repo stars" src="https://img.shields.io/badge/dynamic/json.svg?label=codeberg%20stars&url=https://codeberg.org/api/v1/repos/NoIdea/pages&query=stars_count"></a>
-<a href="https://codeberg.org/NoIdea/pages"><img alt="Codeberg Repo forks" src="https://img.shields.io/badge/dynamic/json.svg?label=codeberg%20forks&url=https://codeberg.org/api/v1/repos/NoIdea/pages&query=forks_count"></a>
+<a href="https://github.com/MonkeyGG2/MonkeyGG2.github.io"><img alt="Github Repo stars" src="https://img.shields.io/github/stars/MonkeyGG2/MonkeyGG2.github.io?label=github%20stars"></a>
+<a href="https://github.com/MonkeyGG2/MonkeyGG2.github.io"><img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/MonkeyGG2/MonkeyGG2.github.io?label=github%20forks"></a>
+<a href="https://codeberg.org/MonkeyGG2/pages"><img alt="Codeberg Repo stars" src="https://img.shields.io/badge/dynamic/json.svg?label=codeberg%20stars&url=https://codeberg.org/api/v1/repos/MonkeyGG2/pages&query=stars_count"></a>
+<a href="https://codeberg.org/MonkeyGG2/pages"><img alt="Codeberg Repo forks" src="https://img.shields.io/badge/dynamic/json.svg?label=codeberg%20forks&url=https://codeberg.org/api/v1/repos/MonkeyGG2/pages&query=forks_count"></a>
 <a href="http://www.wtfpl.net/about"><img alt="License: WTFPL" src="https://img.shields.io/badge/License-WTFPL-brightgreen.svg"></a>
 </div>
 <h1 align="center">NoIdea</h1>
